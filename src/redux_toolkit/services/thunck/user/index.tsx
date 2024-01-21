@@ -35,7 +35,7 @@ export const ChangeUser = createAsyncThunk(
       if (axios.isAxiosError(error) && error.response) {
         return rejectWithValue(error.response.data.message);
       } else {
-        return rejectWithValue("Something Wrong");
+        return rejectWithValue("Something is Wrong");
       } 
     }
   }
