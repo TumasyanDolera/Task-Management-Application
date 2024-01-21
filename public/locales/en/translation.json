@@ -1,0 +1,115 @@
+{
+    "NAV_BAR": {
+        "CONTACT_US": "Contact Us",
+        "HOME": "Home",
+        "SIGN_OUT": "Sign Out",
+        "SIGN_UP": "Sign Up",
+        "ENGLISH": "English",
+        "ARMENIAN": "Armenian",
+        "RUSSINAN": "Russian"
+    },
+    "HOME": {
+        "PROJECT": " Project",
+        "ONTODO": "on Todo List!",
+        "TODO": "Todo Lists are the lists that we generally use to maintain our day-to-day tasks or list of everything that we have to do, with the most important tasks at the top of the list, and the least important tasks at the bottom. It is helpful in planning our daily schedules!",
+        "ADD_TASK": " Add Task"
+    },
+    "REGISTRATION": {
+        "REGISTER": "REGISTER",
+        "FIRST_NAME": "First Name",
+        "LAST_NAME": "Last Name",
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "CONFIRM_PASSWORD": "Confirm Password",
+        "OR": "------ Or ------",
+        "HAVE_AN_ACCOUNT": "Have an account ?",
+        "SIGN_UP": "Sign Up",
+        "SIGN_IN": "Sign In"
+    },
+    "LOG_IN": {
+        "WELCOME": "Welcome",
+        "PASSWORD": "Password",
+        "EMAIL": "Email",
+        "FORGOT_PASSWORD": "forgot password?",
+        "DO_NOT_HAVE_AN_ACCOUNT": "Don't have an account yet ?",
+        "REGISTER": "REGISTER",
+        "SIGN_IN": "Sign In"
+    },
+    "CONTACT_US": {
+        "EMAIL": "Email",
+        "CONTACT": "Contact",
+        "FILL_UP": "Fill up the form below to contact",
+        "NUMBER": "+91-988888888",
+        "HELLOW": "hello@abc.com",
+        "ARMENIA_GYUMRI": "Armenia, Gyumri",
+        "SEND_MESSAGE": "Send Message",
+        "MESSAGE": "Message",
+        "YOUR_NAME": "Your Name",
+        "ENGLISH": "English"
+    },
+    "ADD_TASK": {
+        "USER_PROFILE": "User Profile",
+        "CHOOSE_FILE": "Choose File",
+        "TITLE": "Title",
+        "DESCRIPTION": "Description",
+        "START_DATE": "dueDate",
+        "STATUS": "Status",
+        "LAVEL": "Level",
+        "CANCEL": "Cancel",
+        "SUBMIT": "Submit",
+        "DONE": "Done",
+        "IN_PROGRESS": "In progress",
+        "TODO": "ToDo"
+    },
+    "TASK": {
+        "TASK_EDET": " Edet",
+        "TASK_DELEDTE": "Delete",
+        "TASK_DESCRIPTION": "Description :",
+        "TASK_START_DATA": " Data :",
+        "TASK_STATUS": "Status :",
+        "TASK_TITLE": "Title"
+    },
+    "ERRORS": {
+        "ERROR_NAME": "First Name is required !",
+        "ERROR_LAST_NAME": "Last Name is required !",
+        "ERROR_EMAIL": "Email is required ! ",
+        "ERROR_EMAIL_VALID": "Pleace enter valid email !",
+        "ERROR_PASSWORD": "Password is required !",
+        "ERROR_PASSWORD_VALID": "Password must contain at least one uppercase letter,one lowercase letter, one number, and one of the symbols !, @, #, $, %'!",
+        "CONFIRM_PASSWORD_VALID": "Passwords do not match!",
+        "CONFIRM_PASSWORD": "confirmPassword is required !"
+    },
+    "FOOTER":{
+        "COMPANY": "COMPANY",
+        "ABOUT_US": "About Us",
+        "CONTACT": "Contact Us",
+        "SUPPORT": "SUPPORT",
+        "HELP_CENTER": "Help Center",
+        "SAFETY_CENTER": "Safety Center",
+        "COMMUNITY_GUIDELINES": "Community Guidelines",
+        "FIND_US_ONLINE": "FIND US ONLINE",
+        "INSTALL_APP": "INSTALL APP"
+    },
+    "DELETE":{
+        "DELETE":"Delete Task",
+        "ARE_YOU_SURE":"Are you sure you want to delete your account?",
+        "NO":"No",
+        "YES":"Yes"
+     },
+     "EDIT":{
+        "EDIT":"Edit Task",
+        "CLOSE": "Close",
+        "EDETEDIT": "Edit"
+     },
+     "USER":{
+        "ROLE":"Role:",
+        "CREATED_AT": "Created At:",
+        "UPDATED_AT": "Updated At",
+        "TASK": "Task",
+        "ALL_TASKS": "All Tasks",
+        "USER_NOT_FOUND": " User not found",
+        "ADD_TASK": " Add Task",
+        "CHANGEPASS": "Change password"
+     }
+
+}
